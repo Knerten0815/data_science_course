@@ -1,4 +1,5 @@
 _build
-datasets_local
+images
+datasets
 material_and_raw
 .ipynb_checkpoints
